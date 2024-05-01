@@ -70,7 +70,7 @@ portfolio.json
 
 ## Findings<a name="Findings"></a>
 
-Findings are punlished [here](https://medium.com/@ibraalli06/starbucks-customer-behavior-predictions-and-recommendations-130071fcb585).
+Diecription of the project and findings are in 'Sturbucks Capstone - Ibrahim.pdf'
 
 
 
